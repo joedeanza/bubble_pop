@@ -1,0 +1,2 @@
+g++ -Wall -Wextra -pedantic -std=c++17 src/*.cpp -Iinclude -I/usr/local/include -L/usr/local/lib -lsfml-audio -lsfml-graphics -lsfml-window -lsfml-system -o bubble_pop
+

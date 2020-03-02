@@ -1,0 +1,6 @@
+Bubble Pop
+
+The goal of this game is to avoid popping the big bubble.  The bubble pops
+if it comes into contact with another bubble or hits the edge of the playing
+area.  The points are determined by the number of bubbles that are created
+during the game.  
